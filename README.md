@@ -116,4 +116,11 @@
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
-<img src="https://raw.githubusercontent.com/shashanksingh1717/shashanksingh1717/output/snake.svg" alt="Snake animation" />
+###
+
+<br clear="both">
+
+<!-- <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> -->
+<img src="https://raw.githubusercontent.com/shashanksingh171/shashanksingh171/output/snake.svg" alt="Snake animation" />
+
+###
