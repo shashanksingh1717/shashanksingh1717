@@ -6,21 +6,19 @@
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/shashank-singh-089959321/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/shashank_1717"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-</a>&nbsp;&nbsp;
  </p>
 
 
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Shashank Singh | 💻 Full Stack Developer | 🛸 Noida, India 
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Shashank Singh | 💻 Full Stack Developer | Data Analytics | GDG Noida | Flutter | Galgotias Tech Council | Social Media Expert (335k+ & 18k+ Followers) | Python, Java, DSA | BCA'26 | Tech Fanatic | 🛸 Noida, India 
    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 
 
 <p align="center">
-   <a href="https://twitter.com/shashank_1717"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/shashank_1717?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@shashank_1717"></a>
+   <a href="https://twitter.com/shashank_1717"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg"></a>
  </p>
  
  <h5 align="center">
@@ -34,13 +32,9 @@
   <h3> I'm 21 years old Full-Stack developer from India.</h3>
 </p>
 
- - 🥀 Learning Swift & Objective_C
+ - Learning Web Development & Data Analytics 
  
  - <i>with Javascript, Typescript, React and 69 others.</i>
-   
- - 🔭 SpaceX FanBoi, die for space😼
-
- - 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
  
  - I do fullstack and a bit of everything :heart:
  
@@ -56,7 +50,7 @@
 
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=mayhemantt&&show_icons=true&theme=radical"/>
+
   </a>
 
 </p>
