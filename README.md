@@ -116,4 +116,4 @@
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
-<img src="https://raw.githubusercontent.com/mesumitsingh/mesumitsingh/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/shashank1717/shashank1717/output/snake.svg" alt="Snake animation" />
