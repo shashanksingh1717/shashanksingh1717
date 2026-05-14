@@ -11,7 +11,7 @@
 
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Shashank Singh | 💻 Full Stack Developer | Data Analytics | GDG Noida | Flutter | Galgotias Tech Council | Social Media Expert (335k+ & 18k+ Followers) | Python, Java, DSA | BCA'26 | Tech Fanatic | 🛸 Noida, India 
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Shashank Singh | Data Analytics | GDG Noida | Flutter | Galgotias Tech Council | Social Media Expert (335k+ & 18k+ Followers) | Python, Java, DSA | BCA'26 | Tech Fanatic | 🛸 Noida, India 
    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
