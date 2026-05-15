@@ -32,7 +32,7 @@
   <h3> I'm 22 years old Data Analyst from India.</h3>
 </p>
 
- - Learning Web Development & Data Analytics 
+ - Learning  Data Analytics & Web Development.
  
  - <i>with Javascript, Typescript, React, Tableu, Power BI, SQL, Excel.</i>
  
