@@ -40,7 +40,7 @@
  
  - All About living life at its best.
  
- - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_hemant_joshi)
+ - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://x.com/Shashank_1717)
  
  <p align="center">
   <h4> Data Analytics | Competitive Programming </h4>
@@ -66,14 +66,10 @@
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/2687977d5d045c00f3a2a8f61b21c00d4f405f7d/icons/jupyter.svg" alt="jupyter" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/2687977d5d045c00f3a2a8f61b21c00d4f405f7d/icons/pandas.svg" alt="pandas" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/2687977d5d045c00f3a2a8f61b21c00d4f405f7d/icons/plotly.svg" alt="plotly" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/2687977d5d045c00f3a2a8f61b21c00d4f405f7d/icons/tableau.svg" alt="tableau" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/2687977d5d045c00f3a2a8f61b21c00d4f405f7d/icons/powerbi.svg" alt="powerbi" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/2687977d5d045c00f3a2a8f61b21c00d4f405f7d/icons/postgresql.svg" alt="postgresql" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/2687977d5d045c00f3a2a8f61b21c00d4f405f7d/icons/microsoftsqlserver.svg" alt="sql" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/2687977d5d045c00f3a2a8f61b21c00d4f405f7d/icons/microsoftexcel.svg" alt="excel" style="vertical-align:top; margin:4px">
 </p>
