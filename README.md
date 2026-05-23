@@ -93,7 +93,7 @@
 <br />
 
 <p align="center">
-   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
+   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXFrcXEzNXk0eGI4YzA2eXV1Z204NTZ4dW5ycTZnbzR3cHYzZGpnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
    </p>
    
    
@@ -105,7 +105,7 @@
 
 <p align="center">❤️ If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
-<p align="center">Made with 🇮🇳 in India</p>
+<p align="center">Made with ❤️‍🔥 in India 🇮🇳</p>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
