@@ -12,7 +12,7 @@
 
 <div align="center">
 <h3><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Y1eTc3bWRzbmFyeWNvZHRtY3dtZ252aHNlZ3dzaWV4YW95aXoxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="30"> 🙎 Shashank Singh | Data Analyst | Power BI | Tableu | SQL | Python | JavaScript | BCA’26 | Tech Fanatic | GDG Noida | Galgotias Tech Council| 🛸 Noida, India 
-   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Y1eTc3bWRzbmFyeWNvZHRtY3dtZ252aHNlZ3dzaWV4YW95aXoxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="30"></h3>
 </div>
 
 
