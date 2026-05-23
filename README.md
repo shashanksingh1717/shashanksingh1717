@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="">Shashank</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hi there, I'm <a href="">Shashank singh</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
 
 </div>
@@ -32,9 +32,9 @@
   <h3> I'm 22 years old Data Analyst from India.</h3>
 </p>
 
- - Learning  Data Analytics & Web Development.
+ - Learning  Data Analytics .
  
- - <i>with Javascript, Typescript, React, Tableu, Power BI, SQL, Excel.</i>
+ - <i>with Python , Typescript, React, Tableu, Power BI, SQL, Excel.</i>
  
  - I do data analytics and a bit of everything :heart:
  
@@ -101,11 +101,11 @@
 
 <h2 align="center">🤝 Support</h2>
 
-<p align="center">🎀 Contributions, 🔥 issues, and 🥮 feature requests are most welcome!</p>
+<p align="center">🥷Contributions, 🔥 issues, and 🧜‍♂️ feature requests are most welcome!</p>
 
-<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+<p align="center">❤️ If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
-<p align="center">Made with ❤️ in India</p>
+<p align="center">Made with 🇮🇳 in India</p>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
