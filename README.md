@@ -68,17 +68,21 @@ shashank = {
 
 ## 📈 GitHub Stats
 
+<table align="center">
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shashanksingh1717&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</td>
+
+<td width="50%">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shashanksingh1717&theme=tokyonight&hide_border=true&exclude_repo=shashanksingh1717&card_width=320" />
+</td>
+</tr>
+</table>
+
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shashanksingh1717&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shashanksingh1717&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shashanksingh1717&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=shashanksingh1717&theme=tokyonight&hide_border=true"/>
-</p>
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
