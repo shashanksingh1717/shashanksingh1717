@@ -11,7 +11,7 @@
 
 
 <div align="center">
-<h3><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNlcWFpbHluN2NxMGIycHJ5enk3Mmg0b2RycjIwa3IzZ2k1MnhqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dtB7kgF86VwZWY5Iee/giphy.gif" width="30"> 🙎 Shashank Singh | Data Analyst | Power BI | Tableu | SQL | Python |  BCA’26 | Tech Fanatic | GDG Noida | Galgotias Tech Council| 🛸 Noida, India 🇮🇳
+<h3><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNlcWFpbHluN2NxMGIycHJ5enk3Mmg0b2RycjIwa3IzZ2k1MnhqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dtB7kgF86VwZWY5Iee/giphy.gif" width="30"> 🙎 Shashank Singh | Data Analyst | Power BI | Tableu | SQL | Python |  BCA’26 | Tech Fanatic | GDG Noida | Galgotias Tech Council | 🛸 Noida, India 🇮🇳
    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eTUwYjlpOWNuanY2YW5xM3o2Ymh6cGZmNnR3YXdtZ3BydWcwYXZnOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TncmRRvEGVoVcHgaAb/giphy.gif" width="30"></h3>
 </div>
 
