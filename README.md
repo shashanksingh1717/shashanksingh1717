@@ -38,8 +38,7 @@ shashank = {
 - 📊 Passionate about turning raw data into meaningful stories
 - 🧠 Constantly learning — Python · TypeScript · React · Tableau · Power BI · SQL
 - 🤝 Open to collaborations in data analytics and BI projects
-- 💬 Let's get social — [LinkedIn](https://www.linkedin.com/in/shashank-singh-089959321/) · [X / Twitter](https://x.com/Shashank_1717)
-
+- 💬 Let's get social — [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-singh-089959321/) · [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Shashank_1717)
 ---
 
 ## 🛠️ Languages & Tools
