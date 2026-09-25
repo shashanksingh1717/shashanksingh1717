@@ -71,17 +71,17 @@ shashank = {
 <table align="center">
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shashanksingh1717&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=shashanksingh1717&show_icons=true&theme=tokyonight&hide_border=true" />
 </td>
 
 <td width="50%">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shashanksingh1717&theme=tokyonight&hide_border=true&exclude_repo=shashanksingh1717&card_width=320" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashanksingh1717&theme=tokyonight&hide_border=true&exclude_repo=shashanksingh1717&card_width=320" />
 </td>
 </tr>
 </table>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shashanksingh1717&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=shashanksingh1717&theme=tokyonight&hide_border=true" />
 </p>
 
 <div align="center">
