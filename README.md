@@ -60,18 +60,6 @@ shashank = {
 
 ## 📈 GitHub Stats
 
-<table align="center">
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=shashanksingh1717&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</td>
-
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashanksingh1717&theme=tokyonight&hide_border=true&exclude_repo=shashanksingh1717&card_width=320&cache_seconds=86400" />
-</td>
-</tr>
-</table>
-
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=shashanksingh1717&theme=tokyonight&hide_border=true" />
 </p>
@@ -86,7 +74,10 @@ shashank = {
 
 </div>
 
---- 
+---
+
+
+
 
 ## 🤝 Support & Connect
 
