@@ -54,14 +54,6 @@ shashank = {
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**Web & Development**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
 </div>
 
 ---
@@ -71,11 +63,11 @@ shashank = {
 <table align="center">
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=shashanksingh1717&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=shashanksingh1717&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </td>
 
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashanksingh1717&theme=tokyonight&hide_border=true&exclude_repo=shashanksingh1717&card_width=320" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashanksingh1717&theme=tokyonight&hide_border=true&exclude_repo=shashanksingh1717&card_width=320&cache_seconds=86400" />
 </td>
 </tr>
 </table>
